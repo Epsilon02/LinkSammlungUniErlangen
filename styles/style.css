@@ -1,0 +1,6 @@
+div {
+  display: grid;
+  align-content: space-around;
+  justify-content: center;
+  grid-auto-columns: 50%;
+}
